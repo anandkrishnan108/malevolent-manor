@@ -1794,3 +1794,545 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.11.07-01.21.51:316][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1023.265503
 [2025.11.07-01.21.51:878][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.07-01.21.51:879][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1023.743469, Update Interval: 350.370178
+[2025.11.07-01.27.52:881][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1384.831421
+[2025.11.07-01.27.53:875][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-01.27.53:875][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1385.491211, Update Interval: 339.112518
+[2025.11.07-01.28.58:188][554]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.11.07-01.30.00:110][917]LogSlate: Window 'Loading Many Assets' being destroyed
+[2025.11.07-01.30.00:130][917]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 310 assets. Are you sure you want to continue?
+[2025.11.07-01.30.00:195][917]LogStreaming: Display: FlushAsyncLoading(462): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-01.30.00:245][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_4_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_13_4_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 27x3 x1x1x1) (Required Memory Estimate: 1.003502 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:245][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_4_rgb_XVector_a_XExtent_UV_3.T_Grass_13_4_rgb_XVector_a_XExtent_UV_3 (BGRA8, 27x3 x1x1x1) (Required Memory Estimate: 1.002781 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:247][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Stem_Normal.T_Stem_Normal (TFO_BC5, 64x256 x1x1x1) (Required Memory Estimate: 5.62493 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:247][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Stem_Color.T_Stem_Color (TFO_AutoDXT, 64x256 x1x1x1) (Required Memory Estimate: 3.583295 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:257][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_13_Flower_Color.T_Grass_13_Flower_Color (TFO_AutoDXT, 128x256 x1x1x1) (Required Memory Estimate: 6.16659 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:257][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_13_Flower_Normal.T_Grass_13_Flower_Normal (TFO_BC5, 128x256 x1x1x1) (Required Memory Estimate: 10.249861 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:299][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_SColor.T_Grass_07_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:379][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_11_12_13_Color.T_Grass_11_12_13_Color (TFO_AutoDXT, 2048x4096 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:381][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_11_12_13_Normal.T_Grass_11_12_13_Normal (TFO_BC5, 2048x4096 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:546][917]LogStaticMesh: Display: Building static mesh SM_Grass_13_4 (Required Memory Estimate: 2.815285 MB)...
+[2025.11.07-01.30.00:630][917]LogStaticMesh: Built static mesh [0.08s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_13_4.SM_Grass_13_4
+[2025.11.07-01.30.00:636][917]LogStaticMesh: Display: Building static mesh SM_Grass_13_3 (Required Memory Estimate: 1.586612 MB)...
+[2025.11.07-01.30.00:652][917]LogStaticMesh: Display: Building static mesh SM_Grass_13_2 (Required Memory Estimate: 0.88693 MB)...
+[2025.11.07-01.30.00:683][917]LogStaticMesh: Built static mesh [0.05s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_13_3.SM_Grass_13_3
+[2025.11.07-01.30.00:691][917]LogStaticMesh: Built static mesh [0.04s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_13_2.SM_Grass_13_2
+[2025.11.07-01.30.00:780][917]LogStaticMesh: Display: Building static mesh SM_Grass_13_1 (Required Memory Estimate: 0.315842 MB)...
+[2025.11.07-01.30.00:780][917]LogStaticMesh: Display: Building static mesh SM_Grass_12_3 (Required Memory Estimate: 0.20636 MB)...
+[2025.11.07-01.30.00:788][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_12_3.SM_Grass_12_3
+[2025.11.07-01.30.00:789][917]LogStaticMesh: Display: Building static mesh SM_Grass_12_2 (Required Memory Estimate: 0.198256 MB)...
+[2025.11.07-01.30.00:792][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_13_1.SM_Grass_13_1
+[2025.11.07-01.30.00:794][917]LogStaticMesh: Display: Building static mesh SM_Grass_12_1 (Required Memory Estimate: 0.106464 MB)...
+[2025.11.07-01.30.00:799][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_12_2.SM_Grass_12_2
+[2025.11.07-01.30.00:799][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_12_1.SM_Grass_12_1
+[2025.11.07-01.30.00:799][917]LogStaticMesh: Display: Building static mesh SM_Grass_11_3 (Required Memory Estimate: 0.350762 MB)...
+[2025.11.07-01.30.00:800][917]LogStaticMesh: Display: Building static mesh SM_Grass_11_2 (Required Memory Estimate: 0.178849 MB)...
+[2025.11.07-01.30.00:801][917]LogStaticMesh: Display: Building static mesh SM_Grass_11_1 (Required Memory Estimate: 0.133534 MB)...
+[2025.11.07-01.30.00:805][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_11_1.SM_Grass_11_1
+[2025.11.07-01.30.00:806][917]LogStaticMesh: Display: Building static mesh SM_Grass_10_2 (Required Memory Estimate: 0.122313 MB)...
+[2025.11.07-01.30.00:809][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_11_2.SM_Grass_11_2
+[2025.11.07-01.30.00:811][917]LogStaticMesh: Display: Building static mesh SM_Grass_10_1 (Required Memory Estimate: 0.034547 MB)...
+[2025.11.07-01.30.00:812][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_10_2.SM_Grass_10_2
+[2025.11.07-01.30.00:813][917]LogStaticMesh: Display: Building static mesh SM_Grass_09_3 (Required Memory Estimate: 0.272109 MB)...
+[2025.11.07-01.30.00:816][917]LogStaticMesh: Built static mesh [0.02s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_11_3.SM_Grass_11_3
+[2025.11.07-01.30.00:817][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_10_1.SM_Grass_10_1
+[2025.11.07-01.30.00:817][917]LogStaticMesh: Display: Building static mesh SM_Grass_09_2 (Required Memory Estimate: 0.163228 MB)...
+[2025.11.07-01.30.00:817][917]LogStaticMesh: Display: Building static mesh SM_Grass_09_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:819][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_09_1.SM_Grass_09_1
+[2025.11.07-01.30.00:821][917]LogStaticMesh: Display: Building static mesh SM_Grass_08_4 (Required Memory Estimate: 0.265213 MB)...
+[2025.11.07-01.30.00:824][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_09_3.SM_Grass_09_3
+[2025.11.07-01.30.00:825][917]LogStaticMesh: Display: Building static mesh SM_Grass_08_3 (Required Memory Estimate: 0.265166 MB)...
+[2025.11.07-01.30.00:826][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_09_2.SM_Grass_09_2
+[2025.11.07-01.30.00:827][917]LogStaticMesh: Display: Building static mesh SM_Grass_08_2 (Required Memory Estimate: 0.155658 MB)...
+[2025.11.07-01.30.00:831][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_08_4.SM_Grass_08_4
+[2025.11.07-01.30.00:832][917]LogStaticMesh: Display: Building static mesh SM_Grass_08_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:834][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_08_2.SM_Grass_08_2
+[2025.11.07-01.30.00:834][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_08_1.SM_Grass_08_1
+[2025.11.07-01.30.00:835][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_08_3.SM_Grass_08_3
+[2025.11.07-01.30.00:835][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_5 (Required Memory Estimate: 0.228356 MB)...
+[2025.11.07-01.30.00:835][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_6 (Required Memory Estimate: 0.362906 MB)...
+[2025.11.07-01.30.00:837][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_4 (Required Memory Estimate: 0.230045 MB)...
+[2025.11.07-01.30.00:846][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_4.SM_Grass_07_4
+[2025.11.07-01.30.00:846][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_5.SM_Grass_07_5
+[2025.11.07-01.30.00:846][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_6.SM_Grass_07_6
+[2025.11.07-01.30.00:847][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_3 (Required Memory Estimate: 0.230045 MB)...
+[2025.11.07-01.30.00:847][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_2 (Required Memory Estimate: 0.164316 MB)...
+[2025.11.07-01.30.00:847][917]LogStaticMesh: Display: Building static mesh SM_Grass_07_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:849][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_1.SM_Grass_07_1
+[2025.11.07-01.30.00:850][917]LogStaticMesh: Display: Building static mesh SM_Grass_06_5 (Required Memory Estimate: 0.185839 MB)...
+[2025.11.07-01.30.00:854][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_2.SM_Grass_07_2
+[2025.11.07-01.30.00:855][917]LogStaticMesh: Display: Building static mesh SM_Grass_06_4 (Required Memory Estimate: 0.119502 MB)...
+[2025.11.07-01.30.00:856][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_06_5.SM_Grass_06_5
+[2025.11.07-01.30.00:857][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_07_3.SM_Grass_07_3
+[2025.11.07-01.30.00:858][917]LogStaticMesh: Display: Building static mesh SM_Grass_06_3 (Required Memory Estimate: 0.075235 MB)...
+[2025.11.07-01.30.00:858][917]LogStaticMesh: Display: Building static mesh SM_Grass_06_2 (Required Memory Estimate: 0.05426 MB)...
+[2025.11.07-01.30.00:859][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_06_4.SM_Grass_06_4
+[2025.11.07-01.30.00:860][917]LogStaticMesh: Display: Building static mesh SM_Grass_06_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:860][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_06_2.SM_Grass_06_2
+[2025.11.07-01.30.00:860][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_06_3.SM_Grass_06_3
+[2025.11.07-01.30.00:861][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_06_1.SM_Grass_06_1
+[2025.11.07-01.30.00:861][917]LogStaticMesh: Display: Building static mesh SM_Grass_05_4 (Required Memory Estimate: 0.105423 MB)...
+[2025.11.07-01.30.00:861][917]LogStaticMesh: Display: Building static mesh SM_Grass_05_3 (Required Memory Estimate: 0.027838 MB)...
+[2025.11.07-01.30.00:862][917]LogStaticMesh: Display: Building static mesh SM_Grass_05_2 (Required Memory Estimate: 0.027838 MB)...
+[2025.11.07-01.30.00:863][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_05_3.SM_Grass_05_3
+[2025.11.07-01.30.00:864][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_05_4.SM_Grass_05_4
+[2025.11.07-01.30.00:864][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_05_2.SM_Grass_05_2
+[2025.11.07-01.30.00:864][917]LogStaticMesh: Display: Building static mesh SM_Grass_05_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:865][917]LogStaticMesh: Display: Building static mesh SM_Grass_04_3 (Required Memory Estimate: 0.182247 MB)...
+[2025.11.07-01.30.00:865][917]LogStaticMesh: Display: Building static mesh SM_Grass_04_2 (Required Memory Estimate: 0.066817 MB)...
+[2025.11.07-01.30.00:865][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_05_1.SM_Grass_05_1
+[2025.11.07-01.30.00:867][917]LogStaticMesh: Display: Building static mesh SM_Grass_04_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:868][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_04_2.SM_Grass_04_2
+[2025.11.07-01.30.00:868][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_04_1.SM_Grass_04_1
+[2025.11.07-01.30.00:869][917]LogStaticMesh: Display: Building static mesh SM_Grass_03_2 (Required Memory Estimate: 0.144483 MB)...
+[2025.11.07-01.30.00:869][917]LogStaticMesh: Display: Building static mesh SM_Grass_03_3 (Required Memory Estimate: 0.313131 MB)...
+[2025.11.07-01.30.00:874][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_04_3.SM_Grass_04_3
+[2025.11.07-01.30.00:874][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_03_2.SM_Grass_03_2
+[2025.11.07-01.30.00:875][917]LogStaticMesh: Display: Building static mesh SM_Grass_03_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:875][917]LogStaticMesh: Display: Building static mesh SM_Grass_02_3 (Required Memory Estimate: 0.121138 MB)...
+[2025.11.07-01.30.00:877][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_03_1.SM_Grass_03_1
+[2025.11.07-01.30.00:878][917]LogStaticMesh: Display: Building static mesh SM_Grass_02_2 (Required Memory Estimate: 0.030375 MB)...
+[2025.11.07-01.30.00:879][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_02_2.SM_Grass_02_2
+[2025.11.07-01.30.00:880][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_02_3.SM_Grass_02_3
+[2025.11.07-01.30.00:880][917]LogStaticMesh: Display: Building static mesh SM_Grass_02_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:882][917]LogStaticMesh: Display: Building static mesh SM_Grass_01_3 (Required Memory Estimate: 0.121138 MB)...
+[2025.11.07-01.30.00:882][917]LogStaticMesh: Built static mesh [0.01s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_03_3.SM_Grass_03_3
+[2025.11.07-01.30.00:882][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_02_1.SM_Grass_02_1
+[2025.11.07-01.30.00:883][917]LogStaticMesh: Display: Building static mesh SM_Grass_01_2 (Required Memory Estimate: 0.030375 MB)...
+[2025.11.07-01.30.00:883][917]LogChaosDD: Creating Chaos Debug Draw Scene for world Grass_Scene_Quality
+[2025.11.07-01.30.00:884][917]LogStaticMesh: Display: Building static mesh SM_Grass_01_1 (Required Memory Estimate: 0.016342 MB)...
+[2025.11.07-01.30.00:885][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_01_1.SM_Grass_01_1
+[2025.11.07-01.30.00:885][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_01_2.SM_Grass_01_2
+[2025.11.07-01.30.00:885][917]LogStaticMesh: Built static mesh [0.00s] /Game/Field_Grass_Pack_1_2/Grass/Meshes/SM_Grass_01_3.SM_Grass_01_3
+[2025.11.07-01.30.00:887][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Maps/Grass_Scene_Quality.Grass_Scene_Quality:PersistentLevel.Landscape_2.Texture2D_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:887][917]LogStaticMesh: Display: Building static mesh SM_Stone_03_Moss (Required Memory Estimate: 11.773387 MB)...
+[2025.11.07-01.30.00:887][917]LogStaticMesh: Display: Building static mesh SM_Stone_02 (Required Memory Estimate: 11.773387 MB)...
+[2025.11.07-01.30.00:888][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_13_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 27x2 x1x1x1) (Required Memory Estimate: 1.002335 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:890][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_3_rgb_XVector_a_XExtent_UV_3.T_Grass_13_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 27x2 x1x1x1) (Required Memory Estimate: 1.001854 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:891][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_13_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 17x3 x1x1x1) (Required Memory Estimate: 1.002205 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:891][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_2_rgb_XVector_a_XExtent_UV_3.T_Grass_13_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 17x3 x1x1x1) (Required Memory Estimate: 1.001751 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:892][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_1_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_13_1_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 9x2 x1x1x1) (Required Memory Estimate: 1.000778 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:893][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_13_1_rgb_XVector_a_XExtent_UV_3.T_Grass_13_1_rgb_XVector_a_XExtent_UV_3 (BGRA8, 9x2 x1x1x1) (Required Memory Estimate: 1.000618 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:893][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_12_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 13x3 x1x1x1) (Required Memory Estimate: 1.001686 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:894][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_3_rgb_XVector_a_XExtent_UV_3.T_Grass_12_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 13x3 x1x1x1) (Required Memory Estimate: 1.001339 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.00:954][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_12_Flower_Color.T_Grass_12_Flower_Color (TFO_AutoDXT, 1024x4096 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.01:092][917]LogChaosDD: Creating Chaos Debug Draw Scene for world Grass_Scene_Performance
+[2025.11.07-01.30.01:164][917]LogChaosDD: Creating Chaos Debug Draw Scene for world GrassShowcase
+[2025.11.07-01.30.01:191][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Maps/GrassShowcase.GrassShowcase:PersistentLevel.Landscape_1.Texture2D_0 (BGRA8, 64x128 x1x1x1) (Required Memory Estimate: 1.291653 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.01:192][917]LogStaticMesh: Display: Building static mesh SM_Stone_03 (Required Memory Estimate: 11.773387 MB)...
+[2025.11.07-01.30.01:208][917]LogObjectTools: Deleting 3 worlds: /Game/Field_Grass_Pack_1_2/Maps/Grass_Scene_Quality.Grass_Scene_Quality, /Game/Field_Grass_Pack_1_2/Maps/Grass_Scene_Performance.Grass_Scene_Performance, /Game/Field_Grass_Pack_1_2/Maps/GrassShowcase.GrassShowcase
+[2025.11.07-01.30.01:208][917]LogObjectTools: Currently 4 active worlds: /Game/ForestMap.ForestMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3
+[2025.11.07-01.30.01:236][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.07-01.30.02:019][917]LogStaticMesh: Built static mesh [1.13s] /Game/Field_Grass_Pack_1_2/Stones/Meshes/SM_Stone_02.SM_Stone_02
+[2025.11.07-01.30.02:038][917]LogStaticMesh: Display: Building static mesh SM_Stone_01 (Required Memory Estimate: 11.773387 MB)...
+[2025.11.07-01.30.02:061][917]LogStaticMesh: Built static mesh [1.17s] /Game/Field_Grass_Pack_1_2/Stones/Meshes/SM_Stone_03_Moss.SM_Stone_03_Moss
+[2025.11.07-01.30.02:238][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_12_Flower_Normal.T_Grass_12_Flower_Normal (TFO_BC5, 1024x4096 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:514][917]LogStaticMesh: Built static mesh [1.32s] /Game/Field_Grass_Pack_1_2/Stones/Meshes/SM_Stone_03.SM_Stone_03
+[2025.11.07-01.30.02:544][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_1_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_12_1_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x4 x1x1x1) (Required Memory Estimate: 1.000847 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:545][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_1_rgb_XVector_a_XExtent_UV_3.T_Grass_12_1_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x4 x1x1x1) (Required Memory Estimate: 1.000671 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:547][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_11_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 4x2 x1x1x1) (Required Memory Estimate: 1.000328 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:554][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_3_rgb_XVector_a_XExtent_UV_3.T_Grass_11_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 4x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:576][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_11_Flower_Color.T_Grass_11_Flower_Color (TFO_AutoDXT, 128x2048 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:587][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_11_Flower_Normal.T_Grass_11_Flower_Normal (TFO_BC5, 128x2048 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:659][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_11_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 4x2 x1x1x1) (Required Memory Estimate: 1.000328 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:661][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_2_rgb_XVector_a_XExtent_UV_3.T_Grass_11_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 4x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:662][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_1_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_11_1_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 4x2 x1x1x1) (Required Memory Estimate: 1.000328 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:663][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_11_1_rgb_XVector_a_XExtent_UV_3.T_Grass_11_1_rgb_XVector_a_XExtent_UV_3 (BGRA8, 4x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:664][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_10_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_10_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 8x2 x1x1x1) (Required Memory Estimate: 1.000683 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:667][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_10_2_rgb_XVector_a_XExtent_UV_3.T_Grass_10_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 8x2 x1x1x1) (Required Memory Estimate: 1.000542 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:875][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_10_Flower_Color.T_Grass_10_Flower_Color (TFO_AutoDXT, 2048x4096 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.02:931][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_10_Flower_Normal.T_Grass_10_Flower_Normal (TFO_BC5, 2048x4096 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.03:839][917]LogStaticMesh: Built static mesh [1.80s] /Game/Field_Grass_Pack_1_2/Stones/Meshes/SM_Stone_01.SM_Stone_01
+[2025.11.07-01.30.04:228][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_10_Color.T_Grass_05_10_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.04:472][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_10_SColor.T_Grass_05_10_SColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.04:522][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_10_Normal.T_Grass_05_10_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:748][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_10_1_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_10_1_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x3 x1x1x1) (Required Memory Estimate: 1.000648 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:749][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_10_1_rgb_XVector_a_XExtent_UV_3.T_Grass_10_1_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x3 x1x1x1) (Required Memory Estimate: 1.000515 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:756][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_09_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_09_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x3 x1x1x1) (Required Memory Estimate: 1.000389 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:762][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_09_3_rgb_XVector_a_XExtent_UV_3.T_Grass_09_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x3 x1x1x1) (Required Memory Estimate: 1.000309 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:801][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Flower2_Color.T_Grass_09_Flower2_Color (TFO_AutoDXT, 512x2048 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:812][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Flower2_Normal.T_Grass_09_Flower2_Normal (TFO_BC5, 512x2048 x1x1x1) (Required Memory Estimate: 124.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:986][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Flower_Color.T_Grass_09_Flower_Color (TFO_AutoDXT, 512x2048 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.05:994][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Flower_Normal.T_Grass_09_Flower_Normal (TFO_BC5, 512x2048 x1x1x1) (Required Memory Estimate: 124.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:048][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_06_09_Color.T_Grass_06_09_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:227][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_06_09_SColor.T_Grass_06_09_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:236][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_06_09_Normal.T_Grass_06_09_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:408][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_09_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_09_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:429][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_09_2_rgb_XVector_a_XExtent_UV_3.T_Grass_09_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x2 x1x1x1) (Required Memory Estimate: 1.000206 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:450][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_07_08_09_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_06_07_08_09_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x1 x1x1x1) (Required Memory Estimate: 1.00013 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:453][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_07_08_09_rgb_XVector_a_XExtent_UV_3.T_Grass_06_07_08_09_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x1 x1x1x1) (Required Memory Estimate: 1.000103 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:569][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Color.T_Grass_09_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:584][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_Normal.T_Grass_09_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:830][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_4_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_08_4_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x3 x1x1x1) (Required Memory Estimate: 1.000389 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:831][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_4_rgb_XVector_a_XExtent_UV_3.T_Grass_08_4_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x3 x1x1x1) (Required Memory Estimate: 1.000309 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:864][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_09_SColor.T_Grass_09_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.06:905][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_08_Flower_Color.T_Grass_08_Flower_Color (TFO_AutoDXT, 1024x2048 x1x1x1) (Required Memory Estimate: 144.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:136][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_08_Flower_Normal.T_Grass_08_Flower_Normal (TFO_BC5, 1024x2048 x1x1x1) (Required Memory Estimate: 180.499975 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:364][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_08_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x3 x1x1x1) (Required Memory Estimate: 1.000389 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:365][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_3_rgb_XVector_a_XExtent_UV_3.T_Grass_08_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x3 x1x1x1) (Required Memory Estimate: 1.000309 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:366][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_08_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:369][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_08_2_rgb_XVector_a_XExtent_UV_3.T_Grass_08_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x2 x1x1x1) (Required Memory Estimate: 1.000206 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:421][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_08_Color.T_Grass_07_08_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:446][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Normal.T_Grass_07_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:470][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_08_Color.T_Grass_08_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:850][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_08_Normal.T_Grass_08_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:983][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_6_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_07_6_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 7x2 x1x1x1) (Required Memory Estimate: 1.000587 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.07:984][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_6_rgb_XVector_a_XExtent_UV_3.T_Grass_07_6_rgb_XVector_a_XExtent_UV_3 (BGRA8, 7x2 x1x1x1) (Required Memory Estimate: 1.000465 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:007][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Flower2_Color.T_Grass_07_Flower2_Color (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:082][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_08_SColor.T_Grass_08_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:083][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Flower2_Normal.T_Grass_07_Flower2_Normal (TFO_BC5, 2048x512 x1x1x1) (Required Memory Estimate: 124.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:171][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_5_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_07_5_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 7x2 x1x1x1) (Required Memory Estimate: 1.000587 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:190][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_4_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_07_4_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 12x2 x1x1x1) (Required Memory Estimate: 1.001038 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:190][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_5_rgb_XVector_a_XExtent_UV_3.T_Grass_07_5_rgb_XVector_a_XExtent_UV_3 (BGRA8, 7x2 x1x1x1) (Required Memory Estimate: 1.000465 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:211][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_4_rgb_XVector_a_XExtent_UV_3.T_Grass_07_4_rgb_XVector_a_XExtent_UV_3 (BGRA8, 12x2 x1x1x1) (Required Memory Estimate: 1.000824 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:234][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Flower_Color.T_Grass_07_Flower_Color (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:251][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Flower_Normal.T_Grass_07_Flower_Normal (TFO_BC5, 2048x512 x1x1x1) (Required Memory Estimate: 124.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:410][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_07_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 12x2 x1x1x1) (Required Memory Estimate: 1.001038 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:411][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_3_rgb_XVector_a_XExtent_UV_3.T_Grass_07_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 12x2 x1x1x1) (Required Memory Estimate: 1.000824 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:413][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_07_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 7x3 x1x1x1) (Required Memory Estimate: 1.000908 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:415][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_07_2_rgb_XVector_a_XExtent_UV_3.T_Grass_07_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 7x3 x1x1x1) (Required Memory Estimate: 1.000721 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:422][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_5_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_06_5_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:424][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_5_rgb_XVector_a_XExtent_UV_3.T_Grass_06_5_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x2 x1x1x1) (Required Memory Estimate: 1.000206 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:425][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_4_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_06_4_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x2 x1x1x1) (Required Memory Estimate: 1.000259 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:427][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_4_rgb_XVector_a_XExtent_UV_3.T_Grass_06_4_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x2 x1x1x1) (Required Memory Estimate: 1.000206 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:427][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_06_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x1 x1x1x1) (Required Memory Estimate: 1.00013 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:428][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_06_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x1 x1x1x1) (Required Memory Estimate: 1.00013 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:428][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_3_rgb_XVector_a_XExtent_UV_3.T_Grass_06_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x1 x1x1x1) (Required Memory Estimate: 1.000103 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:430][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_06_2_rgb_XVector_a_XExtent_UV_3.T_Grass_06_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x1 x1x1x1) (Required Memory Estimate: 1.000103 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:430][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_4_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_05_4_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x2 x1x1x1) (Required Memory Estimate: 1.000423 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:431][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_05_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x2 x1x1x1) (Required Memory Estimate: 1.000423 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:431][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_4_rgb_XVector_a_XExtent_UV_3.T_Grass_05_4_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x2 x1x1x1) (Required Memory Estimate: 1.000336 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:432][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_05_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x2 x1x1x1) (Required Memory Estimate: 1.000423 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:433][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_3_rgb_XVector_a_XExtent_UV_3.T_Grass_05_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x2 x1x1x1) (Required Memory Estimate: 1.000336 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:434][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_05_2_rgb_XVector_a_XExtent_UV_3.T_Grass_05_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x2 x1x1x1) (Required Memory Estimate: 1.000336 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:509][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_07_Color.T_Grass_07_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:521][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_Color.T_Grass_05_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:552][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_Normal.T_Grass_05_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:956][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_04_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_04_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x3 x1x1x1) (Required Memory Estimate: 1.000648 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.08:977][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_04_3_rgb_XVector_a_XExtent_UV_3.T_Grass_04_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x3 x1x1x1) (Required Memory Estimate: 1.000515 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:044][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_05_SColor.T_Grass_05_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:097][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_04_Flower_Color.T_Grass_04_Flower_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:178][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_04_Flower_Normal.T_Grass_04_Flower_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:718][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_02_04_Color.T_Grass_02_04_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:740][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_02_04_SColor.T_Grass_02_04_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.09:740][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_02_04_Normal.T_Grass_02_04_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:144][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_04_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_04_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x3 x1x1x1) (Required Memory Estimate: 1.000389 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:149][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_04_10_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_03_04_10_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 3x1 x1x1x1) (Required Memory Estimate: 1.00013 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:151][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_04_2_rgb_XVector_a_XExtent_UV_3.T_Grass_04_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 3x3 x1x1x1) (Required Memory Estimate: 1.000309 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:152][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_04_10_rgb_XVector_a_XExtent.T_Grass_03_04_10_rgb_XVector_a_XExtent (BGRA8, 3x1 x1x1x1) (Required Memory Estimate: 1.000103 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:278][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_04_Color.T_Grass_04_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:308][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_04_SColor.T_Grass_04_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:314][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_04_Normal.T_Grass_04_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:859][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_03_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 5x3 x1x1x1) (Required Memory Estimate: 1.000648 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:860][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_3_rgb_XVector_a_XExtent_UV_3.T_Grass_03_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 5x3 x1x1x1) (Required Memory Estimate: 1.000515 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:871][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_03_Flower_Color.T_Grass_03_Flower_Color (TFO_AutoDXT, 128x512 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:871][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_03_Flower_Normal.T_Grass_03_Flower_Normal (TFO_BC5, 128x512 x1x1x1) (Required Memory Estimate: 19.499759 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:888][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_03_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 7x2 x1x1x1) (Required Memory Estimate: 1.000587 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.10:892][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_03_2_rgb_XVector_a_XExtent_UV_3.T_Grass_03_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 7x2 x1x1x1) (Required Memory Estimate: 1.000465 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:021][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_03_Color.T_Grass_03_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:042][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_03_Normal.T_Grass_03_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:046][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_03_SColor.T_Grass_03_SColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:569][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_02_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_02_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 6x2 x1x1x1) (Required Memory Estimate: 1.000519 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:569][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_02_3_rgb_XVector_a_XExtent_UV_3.T_Grass_02_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 6x2 x1x1x1) (Required Memory Estimate: 1.000412 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:573][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_02_2_rgb_XVector_a_XExtent_UV_3.T_Grass_02_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 6x2 x1x1x1) (Required Memory Estimate: 1.000412 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:573][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_02_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_02_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 6x2 x1x1x1) (Required Memory Estimate: 1.000519 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:574][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_01_3_rgb_XVector_a_XExtent_UV_3.T_Grass_01_3_rgb_XVector_a_XExtent_UV_3 (BGRA8, 6x2 x1x1x1) (Required Memory Estimate: 1.000412 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:574][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_01_3_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_01_3_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 6x2 x1x1x1) (Required Memory Estimate: 1.000519 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:576][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_01_2_rgb_XVector_a_XExtent_UV_3.T_Grass_01_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 6x2 x1x1x1) (Required Memory Estimate: 1.000412 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:576][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_01_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_01_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 6x2 x1x1x1) (Required Memory Estimate: 1.000519 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.11:764][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Landscape/Textures/T_Ground_Grass_Disp.T_Ground_Grass_Disp (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.12:213][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_02_AO.T_Stone_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.12:640][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_02_Color.T_Stone_02_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.14:729][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_02_Roughness.T_Stone_02_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.14:830][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_02_Normal.T_Stone_02_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.18:434][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Maps/Grass_Scene_Quality.Grass_Scene_Quality:PersistentLevel.Landscape_2.Texture2D_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.18:435][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_2_rgb_XVector_a_XExtent_UV_3.T_Grass_12_2_rgb_XVector_a_XExtent_UV_3 (BGRA8, 25x2 x1x1x1) (Required Memory Estimate: 1.001701 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.18:443][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/PP2_Tex/T_Grass_12_2_rgb_PivotPos_a_ParentIndexInt_UV_3.T_Grass_12_2_rgb_PivotPos_a_ParentIndexInt_UV_3 (RGBA16F, 25x2 x1x1x1) (Required Memory Estimate: 1.002144 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.18:493][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Grass/Textures/T_Grass_11_12_13_SColor.T_Grass_11_12_13_SColor (TFO_AutoDXT, 2048x4096 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.19:098][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_03_AO.T_Stone_03_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.19:324][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_03_Color.T_Stone_03_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.19:921][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_03_Normal.T_Stone_03_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.24:013][917]LogTexture: Display: Building textures: /Game/Field_Grass_Pack_1_2/Stones/Textures/T_Stone_03_Roughness.T_Stone_03_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.07-01.30.54:728][917]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.07-01.31.13:352][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.11.07-01.31.40:998][ 87]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: ================================================
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Total job queries 594, among them cache hits 110 (18.52%), DDC hits 367 (61.78%), Duplicates 73 (12.29%)
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Tracking 411 distinct input hashes that result in 349 distinct outputs (84.91%)
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: RAM used: 1.74 MiB of 1.60 GiB budget. Usage: 0.11%
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Shaders Compiled: 44
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Average time worker was idle: 162.40 s
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Time job spent in pending queue: average 1.01 s, longest 5.68 s
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 8.32 s
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Job life time (pending + execution): average 3.44 s, max 9.75
+[2025.11.07-01.31.55:530][244]LogShaderCompilers: Display: Shader code size: total 248.441 KiB, numShaders 51, average 4.871 KiB, min 536 B, max 12.184 KiB
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.16 s
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Average processing rate: 1.37 jobs/sec
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Total thread time: 80.754 s
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Total thread preprocess time: 14.039 s
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Percentage time preprocessing: 17.38%
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Effective parallelization: 2.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.627732
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 2.78 sec, max 3.42 sec, min 1.78 sec)
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 2.23 sec, max 2.78 sec, min 1.42 sec)
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 2.12 sec, max 3.03 sec, min 1.26 sec)
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    4 times, average 1.81 sec, max 2.18 sec, min 1.26 sec)
+[2025.11.07-01.31.55:531][244]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    4 times, average 1.70 sec, max 2.32 sec, min 0.89 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.78% of total time (compiled    6 times, average 2.12 sec, max 3.03 sec, min 1.26 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 13.75% of total time (compiled    4 times, average 2.78 sec, max 3.42 sec, min 1.78 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.60% of total time (compiled    6 times, average 1.43 sec, max 2.05 sec, min 0.85 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight - 8.97% of total time (compiled    4 times, average 1.81 sec, max 2.18 sec, min 1.26 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 8.42% of total time (compiled    4 times, average 1.70 sec, max 2.32 sec, min 0.89 sec)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: === Material stats ===
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Materials Translated:    214
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Material Total Translate Time: 0.39 s
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Material Translation Only: 0.20 s (52%)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: Material Cache Hits: 45 (21%)
+[2025.11.07-01.31.55:532][244]LogShaderCompilers: Display: ================================================
+[2025.11.07-01.32.03:714][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.07-01.32.09:362][318]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.07-01.32.09:449][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.07-01.32.09:466][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.07-01.32.09:483][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.07-01.32.09:544][318]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-01.32.10:684][329]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.07-01.32.11:402][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.07-01.32.11:482][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.07-01.32.11:851][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.07-01.32.29:755][505]LogSlate: Window 'Loading Many Assets' being destroyed
+[2025.11.07-01.32.29:776][505]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 29 assets. Are you sure you want to continue?
+[2025.11.07-01.32.29:831][505]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-01.32.29:888][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.07-01.32.33:749][505]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.07-01.32.33:840][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.07-01.32.33:860][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.11.07-01.32.33:876][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.07-01.32.34:979][515]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.07-01.32.36:294][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.07-01.32.36:305][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-01.32.36:305][531]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ForestMap
+[2025.11.07-01.32.37:032][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.726141s)
+[2025.11.07-01.32.37:032][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ForestMap.ForestMap to /Game/UEDPIE_0_ForestMap.ForestMap (0.726214s)
+[2025.11.07-01.32.37:056][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.07-01.32.37:058][531]LogChaosDD: Creating Chaos Debug Draw Scene for world ForestMap
+[2025.11.07-01.32.37:060][531]LogPlayLevel: PIE: World Init took: (0.002502s)
+[2025.11.07-01.32.37:062][531]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-01.32.37:062][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-01.32.37:062][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-01.32.37:062][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-01.32.37:062][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-01.32.37:062][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-01.32.37:065][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-01.32.37:120][531]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.11.07-01.32.37:120][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-01.32.37:120][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-01.32.37:120][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-01.32.37:121][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.07-01.32.37:121][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.07-01.32.37:125][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.07-01.32.37:125][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.07-01.32.37:125][531]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.07-01.32.37:125][531]LogAudio: Display: Audio Device (ID: 7) registered with world 'ForestMap'.
+[2025.11.07-01.32.37:125][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.07-01.32.37:130][531]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.07-01.32.37:274][531]LogWorld: Bringing World /Game/UEDPIE_0_ForestMap.ForestMap up for play (max tick rate 60) at 2025.11.06-19.32.37
+[2025.11.07-01.32.37:274][531]LogWorld: Bringing up level for play took: 0.143576
+[2025.11.07-01.32.37:278][531]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.11.07-01.32.37:291][531]PIE: Server logged in
+[2025.11.07-01.32.37:294][531]PIE: Play in editor total start time 0.989 seconds.
+[2025.11.07-01.32.40:538][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-01.32.40:538][558]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ForestMap
+[2025.11.07-01.32.40:538][558]LogWorld: UWorld::CleanupWorld for ForestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.32.40:539][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.32.40:543][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-01.32.40:548][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.32.40:594][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-01.32.40:595][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.07-01.32.40:595][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.07-01.32.40:599][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.07-01.32.40:626][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.11.07-01.32.40:746][559]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.11.07-01.32.52:443][856]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.07-01.32.52:443][856]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.07-01.32.52:476][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.07-01.32.55:664][856]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.07-01.33.20:680][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.07-01.33.26:117][255]LogSlate: Window 'Save Content' being destroyed
+[2025.11.07-01.33.26:167][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-01.33.26:256][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/1300954650] ([1] browsable assets)...
+[2025.11.07-01.33.26:256][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/1300954650]
+[2025.11.07-01.33.26:262][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/1300954650
+[2025.11.07-01.33.26:262][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/1300954650C6324171403917E0978CD19192438E78.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/1300954650.uasset'
+[2025.11.07-01.33.26:299][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/2785131480] ([1] browsable assets)...
+[2025.11.07-01.33.26:299][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/2785131480]
+[2025.11.07-01.33.26:301][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/2785131480
+[2025.11.07-01.33.26:301][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/27851314806F2118424DF6489CF3F8C88CAE75917D.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/2785131480.uasset'
+[2025.11.07-01.33.26:303][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/3457643232] ([1] browsable assets)...
+[2025.11.07-01.33.26:303][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/3457643232]
+[2025.11.07-01.33.26:305][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/3457643232
+[2025.11.07-01.33.26:305][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/345764323237068A9645BE59C459D9B2A34B752B96.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/3457643232.uasset'
+[2025.11.07-01.33.26:308][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/383085165] ([1] browsable assets)...
+[2025.11.07-01.33.26:308][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/383085165]
+[2025.11.07-01.33.26:310][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/383085165
+[2025.11.07-01.33.26:310][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/3830851656CA4800C41C1FDE6EB138788A8AA16D6.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/383085165.uasset'
+[2025.11.07-01.33.26:312][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia] ([1] browsable assets)...
+[2025.11.07-01.33.26:312][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia]
+[2025.11.07-01.33.26:314][255]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia
+[2025.11.07-01.33.26:315][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/MI_vlkhcbxia04C10D824265C874C6569D83A48ECDB1.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia.uasset'
+[2025.11.07-01.33.26:316][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia_Billboard] ([1] browsable assets)...
+[2025.11.07-01.33.26:316][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia_Billboard]
+[2025.11.07-01.33.26:318][255]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia_Billboard
+[2025.11.07-01.33.26:319][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/MI_vlkhcbxia_Billboard6C08589748EEBAF182EAE1A1B91C01AD.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia_Billboard.uasset'
+[2025.11.07-01.33.26:321][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Billboard] ([1] browsable assets)...
+[2025.11.07-01.33.26:321][255]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Billboard]
+[2025.11.07-01.33.26:321][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Billboard" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Billboard.uasset" SILENT=true
+[2025.11.07-01.33.26:336][255]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Billboard
+[2025.11.07-01.33.26:337][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/M_MS_Billboard9F2FA0A64D8A1E47F070D1936281A3A9.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Billboard.uasset'
+[2025.11.07-01.33.26:339][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Foliage] ([1] browsable assets)...
+[2025.11.07-01.33.26:339][255]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Foliage]
+[2025.11.07-01.33.26:339][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Foliage" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Foliage.uasset" SILENT=true
+[2025.11.07-01.33.26:350][255]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Foliage
+[2025.11.07-01.33.26:351][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/M_MS_FoliageC577D4A64672252B6B5989A58F6FB9E6.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Foliage.uasset'
+[2025.11.07-01.33.26:353][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/StaticMeshes/grass_vegitation_mix] ([1] browsable assets)...
+[2025.11.07-01.33.26:353][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/StaticMeshes/grass_vegitation_mix]
+[2025.11.07-01.33.26:432][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/StaticMeshes/grass_vegitation_mix
+[2025.11.07-01.33.26:432][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix3098684A4B642F62E468DD85637A10E2.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/StaticMeshes/grass_vegitation_mix.uasset'
+[2025.11.07-01.33.26:433][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_0] ([1] browsable assets)...
+[2025.11.07-01.33.26:433][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_0]
+[2025.11.07-01.33.26:444][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_0
+[2025.11.07-01.33.26:444][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_03552F3D4415CD6091BE9AAB16AA765EA.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_0.uasset'
+[2025.11.07-01.33.26:447][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_1] ([1] browsable assets)...
+[2025.11.07-01.33.26:447][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_1]
+[2025.11.07-01.33.26:467][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_1
+[2025.11.07-01.33.26:468][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_1ABC484DC4B0349F13CB25696041AB062.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_1.uasset'
+[2025.11.07-01.33.26:469][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_2] ([1] browsable assets)...
+[2025.11.07-01.33.26:469][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_2]
+[2025.11.07-01.33.26:486][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_2
+[2025.11.07-01.33.26:486][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_2BD4149064E9E9E701B5FCB82CD20CD1C.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_2.uasset'
+[2025.11.07-01.33.26:489][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_3] ([1] browsable assets)...
+[2025.11.07-01.33.26:490][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_3]
+[2025.11.07-01.33.26:510][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_3
+[2025.11.07-01.33.26:511][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_3A92D73D5401A8B1FAD76889492EB61CA.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_3.uasset'
+[2025.11.07-01.33.26:512][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_4] ([1] browsable assets)...
+[2025.11.07-01.33.26:512][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_4]
+[2025.11.07-01.33.26:524][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_4
+[2025.11.07-01.33.26:524][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_4007EC54A40F101D24672C2996824D5F0.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_4.uasset'
+[2025.11.07-01.33.26:525][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_5] ([1] browsable assets)...
+[2025.11.07-01.33.26:525][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_5]
+[2025.11.07-01.33.26:548][255]LogSavePackage: Moving output files for package: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_5
+[2025.11.07-01.33.26:548][255]LogSavePackage: Moving '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/grass_vegitation_mix_texture_5BE6B79C24C4DCB5DD896EABCA7D95D5B.tmp' to '../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Content/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_5.uasset'
+[2025.11.07-01.33.26:570][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 402.740 ms (total: 2.46 sec)
+[2025.11.07-01.33.26:605][255]LogStall: Shutdown...
+[2025.11.07-01.33.26:605][255]LogStall: Shutdown complete.
+[2025.11.07-01.33.26:638][255]LogSlate: Window 'MalevolentManor - Unreal Editor' being destroyed
+[2025.11.07-01.33.26:646][255]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.07-01.33.26:760][255]LogContentValidation: Display: Starting to validate 15 assets
+[2025.11.07-01.33.26:760][255]LogContentValidation: Enabled validators:
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-01.33.26:760][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/1300954650 Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/2785131480 Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/3457643232 Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Materials/383085165 Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Megascans/Plants/Wild_Grass_vlkhcbxia/Medium/vlkhcbxia_tier_2/Materials/MI_vlkhcbxia_Billboard Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Fab/Materials/Standard/M_MS_Billboard Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Fab/Materials/Standard/M_MS_Foliage Validating asset
+[2025.11.07-01.33.26:760][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/StaticMeshes/grass_vegitation_mix Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_0 Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_1 Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_2 Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_3 Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_4 Validating asset
+[2025.11.07-01.33.26:762][255]AssetCheck: /Game/Fab/Grass_Vegitation_Mix/grass_vegitation_mix/Textures/grass_vegitation_mix_texture_5 Validating asset
+[2025.11.07-01.33.26:764][255]Cmd: QUIT_EDITOR
+[2025.11.07-01.33.26:764][255]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.07-01.33.26:767][255]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anand/Documents/UIUC/Senior Year 2025/CS 415/MalevolentManor/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-01.33.26:772][256]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.07-01.33.26:772][256]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.07-01.33.26:773][256]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.07-01.33.26:774][256]LogWorld: UWorld::CleanupWorld for ForestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:774][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:774][256]LogWorld: UWorld::CleanupWorld for Grass_Scene_Quality, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:774][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:774][256]LogWorld: UWorld::CleanupWorld for Grass_Scene_Performance, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:774][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:775][256]LogWorld: UWorld::CleanupWorld for GrassShowcase, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:775][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:782][256]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.07-01.33.26:782][256]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.07-01.33.26:782][256]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.07-01.33.26:793][256]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:793][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:793][256]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:794][256]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-01.33.26:794][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-01.33.26:795][256]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.07-01.33.26:795][256]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.07-01.33.26:798][256]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.07-01.33.27:674][256]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.07-01.33.27:674][256]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.07-01.33.27:674][256]LogAudio: Display: Audio Device unregistered from world 'ForestMap'.
+[2025.11.07-01.33.27:674][256]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.07-01.33.27:674][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.07-01.33.27:677][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.07-01.33.27:704][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.07-01.33.27:704][256]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.07-01.33.27:748][256]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.07-01.33.27:748][256]LogExit: Preparing to exit.
+[2025.11.07-01.33.27:783][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.07-01.33.28:700][256]LogEditorDataStorage: Deinitializing
+[2025.11.07-01.33.28:803][256]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.07-01.33.28:841][256]LogExit: Editor shut down
+[2025.11.07-01.33.28:846][256]LogExit: Transaction tracking system shut down
+[2025.11.07-01.33.29:019][256]LogExit: Object subsystem successfully closed.
+[2025.11.07-01.33.29:105][256]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.07-01.33.29:297][256]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/85400149-5669-41e8-981b-f509fe1ae36f.
+[2025.11.07-01.33.29:360][256]LogMemoryProfiler: Shutdown
+[2025.11.07-01.33.29:360][256]LogNetworkingProfiler: Shutdown
+[2025.11.07-01.33.29:360][256]LoadingProfiler: Shutdown
+[2025.11.07-01.33.29:360][256]LogTimingProfiler: Shutdown
+[2025.11.07-01.33.29:360][256]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.07-01.33.29:361][256]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.07-01.33.29:670][256]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.07-01.33.29:670][256]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.07-01.33.29:670][256]RenderDocPlugin: plugin has been unloaded.
+[2025.11.07-01.33.29:676][256]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.07-01.33.29:676][256]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8938F688-435A-C147-C61F-E296567AC471%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2edead6c4be139bd3e95a3b32195d021%7C6da57bf4e65f480ab1a79f871ce66277%7C3e2e3bba-c5f3-4020-a5b5-97022210f819&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.07-01.33.30:204][256]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.07-01.33.30:216][256]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.07-01.33.30:216][256]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.07-01.33.30:216][256]LogPakFile: Destroying PakPlatformFile
+[2025.11.07-01.33.30:221][256]LogD3D11RHI: Shutdown
+[2025.11.07-01.33.30:221][256]LogD3D11RHI: CleanupD3DDevice
+[2025.11.07-01.33.30:232][256]LogD3D11RHI: Intel Extensions Framework unloaded
+[2025.11.07-01.33.30:248][256]LogExit: Exiting.
+[2025.11.07-01.33.30:261][256]Log file closed, 11/06/25 19:33:30
