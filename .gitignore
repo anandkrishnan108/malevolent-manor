@@ -1,0 +1,14 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
