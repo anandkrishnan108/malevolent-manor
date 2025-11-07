@@ -1768,3 +1768,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-02.03.49:982][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.07-02.03.49:982][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-02.03.49:982][222]AssetCheck: /Game/ForestMap Validating asset
+[2025.11.07-02.05.03:173][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
